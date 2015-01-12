@@ -46,5 +46,5 @@ class CustomCss {
 	}
 }
 
-$styleEach = new CustomCss();
+$customCss = new CustomCss();
 ?>
